@@ -11,9 +11,9 @@
 
 ## Description
 
-Uniswap is an automated market maker (AMM) — a decentralized finance (DeFi) application that allows users to exchange tokens, providing liquidity via farming and earning fees in return. Inka wallet integrates with the Uniswap service through smart contracts in the Solidity language, which allows you to have easy access to add liquidity to the service
+Uniswap is an automated market maker (AMM) — decentralized finance (DeFi) application that allows users to exchange tokens, providing liquidity via farming and earning fees in return. Inka wallet integrates with the Uniswap service through smart contracts in the Solidity language, allowing you easy access to adding liquidity to the service.
 
-<p>A smart contract for using the Uniswap service takes a commission that is charged to the Inka wallet</p>
+<p>A smart contract for using the Uniswap service takes a commission that is charged to the Inka wallet.</p>
 
 ## How it works
 
