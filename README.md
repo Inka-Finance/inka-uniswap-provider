@@ -7,7 +7,12 @@
 
 - [Description](#description)
 - [How it works](#how-it-works)
+- [Built With](#built-with)
 - [How to run](#how-to-run)
+- [Future Updates](#future-updates)
+- [Author](#author)
+- [Support](#support)
+
 
 ## Description
 
@@ -23,6 +28,12 @@ Uniswap is an automated market maker (AMM) — decentralized finance (DeFi) appl
 
 <p>Smart contract InkaUniswapProvider is a special layer for integration with the Uniswap service. This layer provides easier access to perform operations on the service.</p>
 
+## Built With
+
+- NodeJS
+- Truffle.js
+- Web3.js
+
 ## How to run
 
 When developing a smart contract, the Truffle framework was used to start the deployment process, you need to set up environment variables and install the necessary libraries
@@ -37,5 +48,25 @@ $ npm install
 
 $ truffle compile
 
-$ truffle migrate --network mainnet
+$ truffle migrate --network <network> // choose network - kovan, rinkeby, mainnet
 ```
+
+## Future Updates
+
+- [x] Add Liquidity ETH
+- [x] Add Liquidity ERC20
+- [x] Swap ETH -> ERC20
+- [x] Swap ERC20 -> ETH
+- [x] Swap ERC20 -> ERC20
+
+## Author
+
+- [Profile](https://github.com/Inka-Finance "Inka Finance Development Team")
+- [Email](mailto:a.zhaxybayev@inka.finance?subject=Hi "Hi!")
+- [WebSite](https://inka.finance/ "Welcome")
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!
